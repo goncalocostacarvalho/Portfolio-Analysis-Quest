@@ -30,7 +30,7 @@ Goals for this exercise:
 ## Portfolio Analysis
 
 Goals for this exercise:
-- Calculate and and analyze the performance of the portfolio
+- Calculate and analyze the performance of the portfolio
 - Visualize the asset weights and the asset weights by their categorie
 - Plot the historical cumulative returns
 - Calculate the annualized return and volatility of the portfolio
